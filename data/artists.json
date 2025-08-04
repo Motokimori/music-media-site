@@ -1,0 +1,30 @@
+[
+  {
+    "id": "artist-a",
+    "name": "Artist A",
+    "genre": "Rock",
+    "imageUrl": "https://via.placeholder.com/150",
+    "bio": "Artist A is a legendary rock musician known for their powerful vocals and electrifying guitar solos."
+  },
+  {
+    "id": "artist-b",
+    "name": "Artist B",
+    "genre": "Pop",
+    "imageUrl": "https://via.placeholder.com/150",
+    "bio": "Artist B is a pop sensation with numerous chart-topping hits and a captivating stage presence."
+  },
+  {
+    "id": "artist-c",
+    "name": "Artist C",
+    "genre": "Jazz",
+    "imageUrl": "https://via.placeholder.com/150",
+    "bio": "Artist C is a renowned jazz instrumentalist, celebrated for their intricate melodies and improvisational skills."
+  },
+  {
+    "id": "artist-d",
+    "name": "Artist D",
+    "genre": "Electronic",
+    "imageUrl": "https://via.placeholder.com/150",
+    "bio": "Artist D is an innovative electronic music producer, pushing the boundaries of sound design and rhythm."
+  }
+]

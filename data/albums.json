@@ -1,0 +1,41 @@
+[
+  {
+    "id": "album-one",
+    "title": "Album One",
+    "artist": "Artist A",
+    "imageUrl": "https://via.placeholder.com/150",
+    "description": "This is the description for Album One by Artist A. It features a unique blend of rock and pop elements.",
+    "reviews": [
+      {"id": 1, "rating": 5, "comment": "Absolutely amazing album! A must-listen.", "user": "User1"},
+      {"id": 2, "rating": 4, "comment": "Great tracks, really enjoyed it.", "user": "User2"}
+    ]
+  },
+  {
+    "id": "album-two",
+    "title": "Album Two",
+    "artist": "Artist B",
+    "imageUrl": "https://via.placeholder.com/150",
+    "description": "Album Two is a masterpiece of electronic music, showcasing innovative soundscapes and rhythms.",
+    "reviews": [
+      {"id": 3, "rating": 5, "comment": "Mind-blowing electronic sounds!", "user": "User3"}
+    ]
+  },
+  {
+    "id": "album-three",
+    "title": "Album Three",
+    "artist": "Artist C",
+    "imageUrl": "https://via.placeholder.com/150",
+    "description": "A soulful jazz collection from Artist C, perfect for a relaxing evening.",
+    "reviews": []
+  },
+  {
+    "id": "album-four",
+    "title": "Album Four",
+    "artist": "Artist D",
+    "imageUrl": "https://via.placeholder.com/150",
+    "description": "Artist D delivers a powerful performance in Album Four, a must-listen for all fans of alternative rock.",
+    "reviews": [
+      {"id": 4, "rating": 3, "comment": "Solid album, but not their best work.", "user": "User4"}
+    ]
+  }
+]
