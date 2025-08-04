@@ -1,7 +1,5 @@
 "use client";
 
-"use client";
-
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import Link from 'next/link';
 import sampleAlbums from '@/data/albums.json';
